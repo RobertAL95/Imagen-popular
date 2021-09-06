@@ -1,0 +1,357 @@
+body {
+    background-color: #1c1c1c;
+}
+
+.header {
+    display: flex;
+    background-color: #2B2A2A;
+    height: 10%;
+    width: 100%;
+    justify-content: center;
+    border-radius: 5px;
+    margin-bottom: 1px;
+    padding: 0px;
+    /*position: fixed;*/
+}
+
+.body {
+    display: flex;
+    margin-top: 1px;
+    background-color: #2B2A2A;
+    height: 980px;
+    justify-content: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+
+.body_elements-1 {
+    display: inherit;
+    height: 80%;
+    width: 1200px;
+    background-color: #2B2A2A;
+    border: solid gray 1px;
+    border-radius: 10px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+
+.body_elements--img-1 {
+    display: inherit;
+    margin-top: 40px;
+    height: 290px;
+    width: 230px;
+    border: solid gray 1px;
+    border-radius: 10px;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content: end;
+}
+
+.body_elements--img-2 {
+    display: inherit;
+    margin-top: 40px;
+    height: 290px;
+    width: 230px;
+    border: solid gray 1px;
+    border-radius: 10px;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content: end;
+}
+
+.body_elements--img-3 {
+    display: inherit;
+    margin-top: 40px;
+    height: 290px;
+    width: 230px;
+    border: solid gray 1px;
+    border-radius: 10px;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content: end;
+}
+
+.body_elements--img-4 {
+    display: inherit;
+    margin-top: 40px;
+    height: 290px;
+    width: 230px;
+    border: solid gray 1px;
+    border-radius: 10px;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content: end;
+}
+
+.body_elements--img-5 {
+    display: inherit;
+    margin-top: 40px;
+    height: 290px;
+    width: 230px;
+    border: solid gray 1px;
+    border-radius: 10px;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content: end;
+}
+
+.body_elements--img-6 {
+    display: inherit;
+    margin-top: 40px;
+    height: 290px;
+    width: 230px;
+    border: solid gray 1px;
+    border-radius: 10px;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content: end;
+}
+
+.body_elements--img-7 {
+    display: inherit;
+    margin-top: 40px;
+    height: 290px;
+    width: 230px;
+    border: solid gray 1px;
+    border-radius: 10px;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content: end;
+}
+
+.body_elements--img-8 {
+    display: inherit;
+    margin-top: 40px;
+    height: 290px;
+    width: 230px;
+    border: solid gray 1px;
+    border-radius: 10px;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content: end;
+}
+
+.body_elements--img-9 {
+    display: inherit;
+    margin-top: 40px;
+    height: 290px;
+    width: 230px;
+    border: solid gray 1px;
+    border-radius: 10px;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content: end;
+}
+
+.body_elements--img-10 {
+    display: inherit;
+    margin-top: 40px;
+    height: 290px;
+    width: 230px;
+    border: solid gray 1px;
+    border-radius: 10px;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content: end;
+}
+
+.Imagen-1 {
+    display: inherit;
+    height: 85%;
+    width: 500px;
+    justify-content: center;
+    border: solid gray 1px;
+}
+
+.Like-1 {
+    display: inherit;
+    height: 15%;
+    width: 500px;
+    justify-content: space-around;
+    border: solid gray 1px;
+}
+
+.HandLike {
+    background: transparent;
+    display: inherit;
+    height: 35px;
+    width: 40px;
+    border: 0;
+    cursor: pointer;
+}
+
+.handLike-element {
+    display: inherit;
+    height: 35px;
+    width: 30px;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+
+.HandDislike {
+    background: transparent;
+    display: inherit;
+    height: 35px;
+    width: 40px;
+    border: 0;
+    cursor: pointer;
+}
+
+.handDislikeElement {
+    display: inherit;
+    height: 35px;
+    width: 30px;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+
+.Imagen-2 {
+    display: inherit;
+    height: 85%;
+    width: 500px;
+    justify-content: center;
+    border: solid gray 1px;
+}
+
+.Like-2 {
+    display: inherit;
+    height: 15%;
+    width: 500px;
+    justify-content: center;
+    border: solid gray 1px;
+}
+
+.Imagen-3 {
+    display: inherit;
+    height: 85%;
+    width: 500px;
+    justify-content: center;
+    border: solid gray 1px;
+}
+
+.Like-3 {
+    display: inherit;
+    height: 15%;
+    width: 500px;
+    justify-content: center;
+    border: solid gray 1px;
+}
+
+.Imagen-4 {
+    display: inherit;
+    height: 85%;
+    width: 500px;
+    justify-content: center;
+    border: solid gray 1px;
+}
+
+.Like-4 {
+    display: inherit;
+    height: 15%;
+    width: 500px;
+    justify-content: center;
+    border: solid gray 1px;
+}
+
+.Imagen-5 {
+    display: inherit;
+    height: 85%;
+    width: 500px;
+    justify-content: center;
+    border: solid gray 1px;
+}
+
+.Like-5 {
+    display: inherit;
+    height: 15%;
+    width: 500px;
+    justify-content: center;
+    border: solid gray 1px;
+}
+
+.Imagen-6 {
+    display: inherit;
+    height: 85%;
+    width: 500px;
+    justify-content: center;
+    border: solid gray 1px;
+}
+
+.Like-6 {
+    display: inherit;
+    height: 15%;
+    width: 500px;
+    justify-content: center;
+    border: solid gray 1px;
+}
+
+.Imagen-7 {
+    display: inherit;
+    height: 85%;
+    width: 500px;
+    justify-content: center;
+    border: solid gray 1px;
+}
+
+.Like-7 {
+    display: inherit;
+    height: 15%;
+    width: 500px;
+    justify-content: center;
+    border: solid gray 1px;
+}
+
+.Imagen-8 {
+    display: inherit;
+    height: 85%;
+    width: 500px;
+    justify-content: center;
+    border: solid gray 1px;
+}
+
+.Like-8 {
+    display: inherit;
+    height: 15%;
+    width: 500px;
+    justify-content: center;
+    border: solid gray 1px;
+}
+
+.Imagen-9 {
+    display: inherit;
+    height: 85%;
+    width: 500px;
+    justify-content: center;
+    border: solid gray 1px;
+}
+
+.Like-9 {
+    display: inherit;
+    height: 15%;
+    width: 500px;
+    justify-content: center;
+    border: solid gray 1px;
+}
+
+.Imagen-10 {
+    display: inherit;
+    height: 85%;
+    width: 500px;
+    justify-content: center;
+    border: solid gray 1px;
+}
+
+.Like-10 {
+    display: inherit;
+    height: 15%;
+    width: 500px;
+    justify-content: center;
+    border: solid gray 1px;
+}
+
+
+/*# sourceMappingURL=styles.css.map */
